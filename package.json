@@ -22,5 +22,11 @@
   "homepage": "https://github.com/ilia-m-dev/frontend-project-44#readme",
   "dependencies": {
     "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@stylistic/eslint-plugin": "^5.9.0",
+    "eslint": "^10.0.1",
+    "globals": "^17.3.0"
   }
 }
